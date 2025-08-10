@@ -15,7 +15,7 @@ theme='config-power'
 
 # CMDs
 uptime="`uptime -p | sed -e 's/up //g'`"
-host='Ab0Z3in4-PC'
+host='x1nf3ct-PC'
 
 # Options
 shutdown=' Shutdown'

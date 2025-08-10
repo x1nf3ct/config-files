@@ -1,7 +1,7 @@
 # DO NOT EDIT! This file will be overwritten by LXAppearance.
 # Any customization should be done in ~/.gtkrc-2.0.mine instead.
 
-include "/home/ab0z3in4/.gtkrc-2.0.mine"
+include "/home/x1nf3ct/.gtkrc-2.0.mine"
 gtk-theme-name="adw-gtk3-dark"
 gtk-icon-theme-name="Papirus-Dark"
 gtk-font-name="Cantarell 10"

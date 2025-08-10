@@ -35,8 +35,8 @@ vim /etc/rc.conf
 vim /etc/default/libc-locales
 xbps-reconfigure -f glibc-locales
 passwd
-useradd -m -G wheel,audio,video -m ab0z3in4
-passwd ab0z3in4
+useradd -m -G wheel,audio,video -m x1nf3ct
+passwd x1nf3ct
 EDITOR=vim visudo
 grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=GRUB
 grub-mkconfig -o /boot/grub/grub.cfg
